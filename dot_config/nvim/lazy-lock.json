@@ -1,0 +1,9 @@
+{
+  "feline.nvim": { "branch": "master", "commit": "3587f57480b88e8009df7b36dc84e9c7ff8f2c49" },
+  "fzf": { "branch": "master", "commit": "0994d9c881f8380997b96bb0a4a7416b50bc2b0d" },
+  "fzf.vim": { "branch": "master", "commit": "71b0e0fb94f4cd5102fb0ece4fdccf2a97649367" },
+  "html5.vim": { "branch": "master", "commit": "485f2cd62162c81e56d8604b4c630f0b5ef69d1f" },
+  "lazy.nvim": { "branch": "main", "commit": "d3974346b6cef2116c8e7b08423256a834cb7cbc" },
+  "vim-javascript": { "branch": "master", "commit": "c470ce1399a544fe587eab950f571c83cccfbbdc" },
+  "vim-svelte": { "branch": "main", "commit": "0e93ec53c3667753237282926fec626785622c1c" }
+}
